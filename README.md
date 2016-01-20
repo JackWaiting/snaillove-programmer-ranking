@@ -11,7 +11,7 @@
 |#1|ifeegoo|http://www.ifeegoo.com|39|85|N/A|15786805
 |#2|chiemy|http://chiemy.com|42|49|N/A|N/A
 |#3|arrfu|http://www.arrfu.com|34|36|N/A|N/A
-|#4|Jackwaiting|http://blog.csdn.net/zhanggang740|15|13|N/A|N/A
+|#4|JackWaiting|http://blog.csdn.net/zhanggang740|15|13|N/A|N/A
 |#5|fiskz|http://fiskz.com|6|12|N/A|N/A
 |#6|misparking|http://www.misparking.com|10|N/A|N/A|N/A
 |#7|chenyunxuan|http://www.chenyunxuan.com|9|0|N/A|N/A
@@ -45,7 +45,7 @@ Note:
 |Total Rank|Github|Personal Repositories|Stars Per Repository|Forks Per Repository|Followers|Starred|Gist
 |---|---|---|---|---|---|---|---|
 |#1|[@chiemy](http://github.com/chiemy)|46|21.4|8.4|89|152|10
-|#2|[@Jackwaiting](http://github.com/jackwaiting)|9|0.8|0.1|13|15|0
+|#2|[@JackWaiting](http://github.com/jackwaiting)|9|0.8|0.1|13|15|0
 |#3|[@ifeegoo](http://github.com/ifeegoo)|11|0.2|0.1|25|452|0
 |#4|[@misparking](http://github.com/misparking)|4|0|0|7|14|0
 |#5|[@subvin](http://github.com/subvin)|4|0|0|5|2|0
@@ -75,7 +75,7 @@ Note:
 |#1|[@ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)|700|1|4|16|54|3|191K
 |#2|[@chenyunxuan](http://stackoverflow.com/users/5469727/chenyunxuan)|8|0|0|1|0|1|23
 |#3|[@iOnesmile](http://stackoverflow.com/users/5470510/ionesmile)|1|0|0|2|0|0|9
-|#4|[@Jackwaiting](https://stackoverflow.com/users/5470345/jackwaiting)|1|0|0|2|0|0|0
+|#4|[@JackWaiting](https://stackoverflow.com/users/5470345/jackwaiting)|1|0|0|2|0|0|0
 |#5|[@arrfu](http://stackoverflow.com/users/5471377/arrfu)|1|0|0|1|0|0|0
 |#6|[@misparking](http://stackoverflow.com/users/5299868/misparking)|1|0|0|1|0|0|0
 |#7|[@subvin](http://stackoverflow.com/users/5467900/subvin)|1|0|0|0|0|0|0
@@ -102,7 +102,7 @@ Note:
 |#3|[@arrfu](https://www.zhihu.com/people/arrfu)|2|3|4|3|4
 |#4|[@subvin](https://www.zhihu.com/people/subvin)|1|0|2|2|0
 |#5|[@fiskz](https://www.zhihu.com/people/wfiskz)|0|0|5|4|1
-|#6|[@Jackwaiting](https://www.zhihu.com/people/jackwaiting)|0|0|3|3|1
+|#6|[@JackWaiting](https://www.zhihu.com/people/jackwaiting)|0|0|3|3|1
 |#7|[@chenyunxuan](https://www.zhihu.com/people/chen-yun-xuan-29)|0|0|6|0|0
 |#8|[@chiemy](https://www.zhihu.com/people/chiemy)|0|0|2|0|0
 |#9|[@luyonghe](https://www.zhihu.com/people/yonghelu)|0|0|1|0|0
